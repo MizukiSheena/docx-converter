@@ -1,5 +1,4 @@
-# docx-converter
-converter batch of docx to markdown &amp; xml 
+# Contents of /doc-converter/doc-converter/README.md
 
 # Word文档转换工具
 
